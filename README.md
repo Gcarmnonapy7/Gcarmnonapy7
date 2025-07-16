@@ -48,11 +48,11 @@ I’m currently finishing my degree in **Computer Science**, but my curiosity st
 ##  Cool Projects projects (Of course there will be another soon!!)
 
 | Project | Description | Tech |
-|--------|-------------|------|
+|---------|-------------|------|
 
 |  **MyFavoriteSubject Chatbot** | Chatbot to generate summaries and questions about academic subjects | Flask + Gemini API |
-|  **ML-from-Scratch** | Educational machine learning library with core algorithms | Python, NumPy and C++ (Coming soon!)|
-|  **Linear-Algebra-Lessons**| Building a library about everything i take from my Linear Algebra Lessons from MIT online course |
+|  **ML-from-Scratch**           | Educational machine learning library with core algorithms | Python, NumPy and C++ (Coming soon!)|
+|  **Linear-Algebra-Lessons**    | Building a library about everything i take from my Linear Algebra Lessons from MIT online course | Julia |
  
 ---
 
