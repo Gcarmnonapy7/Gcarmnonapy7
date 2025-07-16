@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyMzJvaXo2aXFveHBta3picmpjcnN0bm93OWFoZjJkY3dqdnc5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hhfNALWNIBVAe9aKeH/giphy.gif" width="200" alt="Space GIF from Hubble">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyMzJvaXo2aXFveHBta3picmpjcnN0bm93OWFoZjJkY3dqdnc5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hhfNALWNIBVAe9aKeH/giphy.gif" width="400" alt="Space GIF from Hubble">
 </p>
 
 <h1 align="center">Hi, I'm Gabriel Carmona </h1>
