@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="200" alt="Space GIF from Hubble">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200" alt="Space GIF from Hubble">
 </p>
 
 <h1 align="center">Hi, I'm Gabriel Carmona </h1>
