@@ -75,7 +75,7 @@ I’m currently finishing my degree in **Computer Science**, but my curiosity st
 
 ## Let's Connect !!
 
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-carmona-py765/)
 - GitHub: [@Gcarmnonapy7](https://github.com/Gcarmnonapy7)
 
 ---
