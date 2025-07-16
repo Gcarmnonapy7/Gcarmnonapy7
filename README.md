@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fscience.nasa.gov%2Fmission%2Fhubble%2Fscience%2Funiverse-uncovered%2Fhubble-deep-fields%2F&psig=AOvVaw3afin3slzoloKucDg0k0iR&ust=1752754220764000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC_5bmswY4DFQAAAAAdAAAAABAE" width="200" alt="Space GIF from Hubble">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200" alt="Space GIF from Hubble">
 </p>
 
 <h1 align="center">Hi, I'm Gabriel Carmona </h1>
