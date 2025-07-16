@@ -100,6 +100,6 @@ I’m currently finishing my degree in **Computer Science**, but my curiosity st
 </p>
 ---
 
-
+<p>
    Thank you for visiting my space!  
 </p>
