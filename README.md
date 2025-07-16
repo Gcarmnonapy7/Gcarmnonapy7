@@ -30,13 +30,18 @@ I’m currently finishing my degree in **Computer Science**, but my curiosity st
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 📈 Scientific Libraries & Tools:
+## 🔬 Scientific Libraries & Tools
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Geant4](https://img.shields.io/badge/-Geant4-1E4A74?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyNScgaGVpZ2h0PScyNScgdmlld0JveD0nMCAwIDI1IDI1Jz48cmVjdCB3aWR0aD0nMjUnIGhlaWdodD0nMjUnIGZpbGw9JyMxRTRBNzQnIHJ4PSc0Jy8+PC9zdmc+)  
+![Geant4](https://img.shields.io/badge/-Geant4-1E4A74?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyNScgaGVpZ2h0PScyNScgdmlld0JveD0nMCAwIDI1IDI1Jz48cmVjdCB3aWR0aD0nMjUnIGhlaWdodD0nMjUnIGZpbGw9JyMxRTRBNzQnIHJ4PSc0Jy8+PC9zdmc+)
+
 
 ### IDE and dev's softwares 
 
@@ -79,11 +84,22 @@ I’m currently finishing my degree in **Computer Science**, but my curiosity st
 - GitHub: [@Gcarmnonapy7](https://github.com/Gcarmnonapy7)
 
 ---
+## 📈 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gcarmnonapy7&show_icons=true&theme=tokyonight&rank_icon=default" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcarmnonapy7&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
+</p>
+
+---
+<p align="center">
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="400" alt="Stars">
 </p>
+---
 
-<p align="center">
+
    Thank you for visiting my space!  
 </p>
