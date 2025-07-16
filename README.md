@@ -81,7 +81,7 @@ I’m currently finishing my degree in **Computer Science**, but my curiosity st
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="300" alt="Stars">
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="400" alt="Stars">
 </p>
 
 <p align="center">
