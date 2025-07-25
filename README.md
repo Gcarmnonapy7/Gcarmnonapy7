@@ -41,6 +41,7 @@ I’m currently finishing my degree in **Computer Science**, but my curiosity st
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Geant4](https://img.shields.io/badge/-Geant4-1E4A74?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyNScgaGVpZ2h0PScyNScgdmlld0JveD0nMCAwIDI1IDI1Jz48cmVjdCB3aWR0aD0nMjUnIGhlaWdodD0nMjUnIGZpbGw9JyMxRTRBNzQnIHJ4PSc0Jy8+PC9zdmc+)
+![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 
 
 ### IDE and dev's softwares 
