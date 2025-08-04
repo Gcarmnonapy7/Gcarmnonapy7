@@ -63,7 +63,7 @@ I’m currently finishing my degree in **Computer Science**, but my curiosity st
 | Project | Description | Tech |
 |---------|-------------|------|
 
-|  **MyFavoriteSubject LLM**   | Chatbot to generate summaries and questions about academic subjects | Flask + Gemini API |
+|  **MyFavoriteSubject LLM**   | Chatbot to generate summaries and questions about academic subjects | Creating a Large Language Model from scratch using pytorch |
 |  **ML-from-Scratch**         | Educational machine learning library with core algorithms | Python, NumPy and C++ (Coming soon!)|
 |  **Linear-Algebra-Lessons**  | Building a library about everything i take from my Linear Algebra Lessons from MIT online course | Julia |
  
