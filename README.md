@@ -1,110 +1,76 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRyMzJvaXo2aXFveHBta3picmpjcnN0bm93OWFoZjJkY3dqdnc5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hhfNALWNIBVAe9aKeH/giphy.gif" width="400" alt="Space GIF">
-</p>
-
-<h1 align="center">Hi, I'm Gabriel Carmona</h1>
+<h1 align="center">Gabriel Carmona</h1>
 
 <p align="center">
-  Junior Data Scientist • Math & AI Enthusiast • Builder of Intelligent Systems
+  Junior Data Scientist • Machine Learning • Mathematical Modeling • AI Systems
 </p>
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hello! I'm **Gabriel Carmona Bittencourt** (Carmona or **Gcarmnonapy7** on GitHub).
+I am a Computer Science student focused on becoming a specialist in Data Science and Artificial Intelligence. My work is driven by a strong interest in the mathematical foundations of machine learning and the practical implementation of intelligent systems.
 
-I am a **Computer Science student** focused on becoming a **Data Science and AI specialist**.  
-My passion lies in combining **strong mathematical foundations**, **machine learning**, and **software engineering** to build intelligent, efficient, and scalable systems.
+I enjoy understanding how algorithms work at a fundamental level and building solutions that combine mathematics, programming, and data-driven decision making.
 
-I don’t just use libraries — I enjoy understanding and implementing the **math behind algorithms**, building tools from scratch, and exploring how models truly work under the hood.
-
-> _“Imagination will often carry us to worlds that never were. But without it, we go nowhere.”_  
-> — Carl Sagan
+I am particularly interested in developing efficient models, implementing algorithms from scratch, and working on projects that bridge theory and real-world applications.
 
 ---
 
-## 🚀 What I Bring to the Table
+## What I Offer
 
-- Solid foundation in **Linear Algebra, Calculus, and Statistics**
-- Practical experience with **Machine Learning, Deep Learning, and Data Analysis**
-- Ability to implement algorithms **from scratch** (not only use frameworks)
-- Strong problem-solving mindset and curiosity for complex systems
-- Experience building real projects with **Python, C++, and Julia**
-- Comfortable working in research-oriented and engineering-oriented environments
+- Solid foundation in Linear Algebra, Calculus, Probability, and Statistics
+- Practical experience with Machine Learning, Deep Learning, and Data Analysis
+- Ability to implement algorithms from scratch, not only use frameworks
+- Strong problem-solving skills and analytical thinking
+- Experience with Python, C++, and Julia for scientific computing
+- Clear communication and documentation of technical projects
 
 ---
 
-## 🧠 Tech Stack & Tools
+## Technical Skills
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Julia](https://img.shields.io/badge/-Julia-a270ba?style=for-the-badge&logo=julia&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+Python • C++ • Julia • R
 
-### Data Science & AI
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+### Machine Learning and Data Science
+NumPy • pandas • scikit-learn • PyTorch • TensorFlow • Matplotlib
 
 ### Tools
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+Jupyter • VSCode • LaTeX • Git
 
 ---
 
-## 💡 Interests & Focus Areas
+## Areas of Interest
 
 - Machine Learning and Deep Learning
 - Mathematical foundations of AI
-- Building ML algorithms from scratch
-- Data analysis and model optimization
-- Scientific computing and simulations
-- High-performance implementations with C++
+- Model evaluation and optimization
+- Scientific computing
+- High-performance implementations in C++
+- Data-driven problem solving
 
 ---
 
-## 🛠️ Highlight Projects
+## Selected Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **MyFavoriteSubject LLM** | Educational chatbot that summarizes subjects and generates questions | PyTorch, NLP |
-| **ML-from-Scratch** | Educational ML library implementing core algorithms from the ground up | Python, NumPy, C++ |
-| **Linear-Algebra-Lessons** | Practical implementations of linear algebra concepts | Julia |
-
----
-
-## 📚 Currently Learning
-
-- Advanced Linear Algebra & Statistics for ML
-- Deep Learning architectures (CNNs, Transformers)
-- Model optimization and evaluation
-- DevOps practices for Data Science projects
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| MyFavoriteSubject LLM | Educational chatbot that summarizes academic subjects and generates questions | PyTorch, NLP |
+| ML-from-Scratch | Educational machine learning library implementing core algorithms from the ground up | Python, NumPy, C++ |
+| Linear-Algebra-Lessons | Practical implementations of linear algebra concepts used in machine learning | Julia |
 
 ---
 
-## 🤝 Let's Connect
+## Currently Learning
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-carmona-py765/)
-- GitHub: [@Gcarmnonapy7](https://github.com/Gcarmnonapy7)
+- Advanced statistics for machine learning
+- Deep learning architectures (CNNs and Transformers)
+- Model performance optimization
+- Best practices for Data Science projects and version control
 
 ---
 
-## 📈 GitHub Stats
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gcarmnonapy7&show_icons=true&theme=tokyonight&rank_icon=default" alt="GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcarmnonapy7&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
-</p>
-iphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="400" alt="Stars">
-</p>
----
-
-<p>
-   Thank you for visiting my space!  
-</p>
+LinkedIn: https://www.linkedin.com/in/gabriel-carmona-py765/  
+GitHub: https://github.com/Gcarmnonapy7
