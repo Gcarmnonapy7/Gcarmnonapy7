@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Carmona</h1>
 
 <p align="center">
-  Junior Data Scientist • Machine Learning • Mathematical Modeling • AI Systems
+  Data Scientist • Machine Learning • Mathematical Modeling • AI Systems
 </p>
 
 ---
