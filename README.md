@@ -1,76 +1,57 @@
 <h1 align="center">Gabriel Carmona</h1>
+<p align="center"> <b>Data Science • Machine Learning • Mathematical Modeling • AI Systems</b> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Machine+Learning+from+Scratch;Mathematics+Driven+Engineering;Data+Science+Enthusiast" /> </p>
+About Me
 
+I am a Computer Science student specializing in Data Science and Artificial Intelligence, with a strong focus on the mathematical foundations behind machine learning.
+
+My work centers on understanding algorithms at a fundamental level and translating them into efficient, real-world systems. I am particularly interested in building models from scratch, optimizing performance, and bridging theory with practical applications.
+
+Tech Stack
 <p align="center">
-  Data Scientist • Machine Learning • Mathematical Modeling • AI Systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </p>
+GitHub Stats
+<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gcarmnonapy7&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcarmnonapy7&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+Featured Projects
+MyFavoriteSubject LLM
 
----
+Educational chatbot that summarizes academic subjects and generates structured questions with multiple difficulty levels
+Tech: PyTorch, NLP
 
-## About Me
+ML-from-Scratch
 
-I am a Computer Science student focused on becoming a specialist in Data Science and Artificial Intelligence. My work is driven by a strong interest in the mathematical foundations of machine learning and the practical implementation of intelligent systems.
+Implementation of core machine learning algorithms focusing on mathematical understanding and performance
+Tech: Python, NumPy, C++
 
-I enjoy understanding how algorithms work at a fundamental level and building solutions that combine mathematics, programming, and data-driven decision making.
+Linear Algebra Lessons
 
-I am particularly interested in developing efficient models, implementing algorithms from scratch, and working on projects that bridge theory and real-world applications.
+Applied implementations of linear algebra concepts for machine learning
+Tech: Julia
 
----
-
-## What I Offer
-
-- Solid foundation in Linear Algebra, Calculus, Probability, and Statistics
-- Practical experience with Machine Learning, Deep Learning, and Data Analysis
-- Ability to implement algorithms from scratch, not only use frameworks
-- Strong problem-solving skills and analytical thinking
-- Experience with Python, C++, and Julia for scientific computing
-- Clear communication and documentation of technical projects
-
----
-
-## Technical Skills
-
-### Programming Languages
-Python • C++ • Julia • R
-
-### Machine Learning and Data Science
-NumPy • pandas • scikit-learn • PyTorch • TensorFlow • Matplotlib
-
-### Tools
-Jupyter • VSCode • LaTeX • Git
-
----
-
-## Areas of Interest
-
-- Machine Learning and Deep Learning
-- Mathematical foundations of AI
-- Model evaluation and optimization
-- Scientific computing
-- High-performance implementations in C++
-- Data-driven problem solving
-
----
-
-## Selected Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| MyFavoriteSubject LLM | Educational chatbot that summarizes academic subjects and generates questions | PyTorch, NLP |
-| ML-from-Scratch | Educational machine learning library implementing core algorithms from the ground up | Python, NumPy, C++ |
-| Linear-Algebra-Lessons | Practical implementations of linear algebra concepts used in machine learning | Julia |
-
----
-
-## Currently Learning
-
-- Advanced statistics for machine learning
-- Deep learning architectures (CNNs and Transformers)
-- Model performance optimization
-- Best practices for Data Science projects and version control
-
----
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/gabriel-carmona-py765/  
-GitHub: https://github.com/Gcarmnonapy7
+Currently Learning
+Advanced statistics for machine learning
+Deep learning architectures (CNNs and Transformers)
+Model optimization and performance tuning
+MLOps and reproducible pipelines
+Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gcarmnonapy7&theme=tokyo-night&hide_border=true"/> </p>
+Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/gabriel-carmona-py765/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> </p>
+Subtle Personal Touch
+<p align="center"> <img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="90"/> </p>
