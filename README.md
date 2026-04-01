@@ -32,14 +32,6 @@ I enjoy transforming theoretical ideas into **efficient intelligent systems**.
 
 ---
 
-# Neural Network Visualization
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="750"/>
-</p>
-
----
-
 # Tech Stack
 
 <p align="center">
