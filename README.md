@@ -5,11 +5,23 @@
 <!-- ================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Gabriel%20Carmona&fontSize=60&fontAlign=50&fontColor=00F7FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Gabriel%20Carmona&fontSize=65&fontAlign=50&fontColor=00F7FF&animation=twinkling&desc=Scientific%20Machine%20Learning%20|%20Computational%20Systems&descAlign=50&descSize=18"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Scientific+Machine+Learning;Computational+Modeling;Mathematics-Driven+AI;Building+Simulation+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Designing+Simulation+Engines;Learning+Physical+Systems+from+Data;Mathematics+%2B+Code+%2B+Intelligence;Building+Next-Gen+AI+Systems"/>
+</p>
+
+---
+
+<!-- ================================================= -->
+
+<!--                    ANIMATED BANNER                -->
+
+<!-- ================================================= -->
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
 </p>
 
 ---
@@ -18,23 +30,23 @@
 
 Computer Science student focused on **Scientific Machine Learning, Computational Modeling, and Mathematical Systems**.
 
-My work is centered on building algorithms from **first principles**, combining:
+I build systems from first principles, combining:
 
 * **Machine Learning (neural networks, optimization, learning dynamics)**
 * **Mathematical modeling (calculus, linear algebra, probability)**
-* **Simulation-driven systems (physical and data-driven models)**
+* **Simulation-driven systems (physics-inspired computation)**
 
-I am particularly interested in understanding how **intelligent systems can learn structured behavior from data**, especially in mathematically grounded environments.
+I am particularly interested in **learning structured behavior from data** and building **intelligent systems grounded in mathematics**.
 
 ---
 
 # Core Interests
 
-• Machine Learning Theory and Optimization
-• Mathematical Modeling of Complex Systems
-• Scientific Computing and Simulation
-• Data-Driven System Design
-• AI Engineering with strong theoretical foundations
+• Scientific Machine Learning
+• Computational Physics & Simulation
+• Optimization and Energy-Based Models
+• Mathematical System Design
+• High-Performance Computing
 
 ---
 
@@ -46,36 +58,47 @@ I am particularly interested in understanding how **intelligent systems can lear
 
 ---
 
+<!-- ================================================= -->
+
+<!--                    PROJECT VIBE GIF               -->
+
+<!-- ================================================= -->
+
+<p align="center">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
+</p>
+
+---
+
 # Currently Learning
 
 • Numerical methods for dynamical systems
-• Advanced statistics for machine learning
+• Optimization in high-dimensional spaces
 • Deep learning architectures and training dynamics
-• Optimization methods in high-dimensional spaces
-• High-performance computing and efficient implementations
+• Scientific computing and simulation techniques
+• Performance optimization in C++
 
 ---
+
+<!-- ================================================= -->
+
+<!--                ACTIVITY DASHBOARD                 -->
+
+<!-- ================================================= -->
 
 # Commit Ranking & Activity
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gcarmnonapy7&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gcarmnonapy7&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gcarmnonapy7&theme=tokyonight"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gcarmnonapy7&theme=tokyonight&utcOffset=-3"/>
-
 </p>
 
 ---
@@ -91,7 +114,7 @@ I am particularly interested in understanding how **intelligent systems can lear
 # GitHub Snake Animation
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -99,7 +122,7 @@ I am particularly interested in understanding how **intelligent systems can lear
 # Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Gcarmnonapy7&label=Profile%20Views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Gcarmnonapy7&label=Profile%20Views&color=00F7FF&style=flat"/>
 </p>
 
 ---
@@ -107,21 +130,23 @@ I am particularly interested in understanding how **intelligent systems can lear
 # Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/gabriel-carmona-py765/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-
 </p>
 
 ---
 
-# Personal Signature
+<!-- ================================================= -->
+
+<!--                 FINAL SIGNATURE                   -->
+
+<!-- ================================================= -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/W04QVzelTHsNW/giphy.gif" width="90"/>
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="120"/>
 </p>
 
 <p align="center">
-<i>"Building intelligent systems grounded in mathematics, computation, and structure."</i>
+<i>"Systems that learn. Models that simulate. Code that explains reality."</i>
 </p>
