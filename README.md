@@ -9,26 +9,32 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Engineer;Machine+Learning+From+Scratch;Mathematics+Driven+AI;Building+Intelligent+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Scientific+Machine+Learning;Computational+Modeling;Mathematics-Driven+AI;Building+Simulation+Systems"/>
 </p>
 
 ---
 
 # About Me
 
-Computer Science student focused on **Data Science, Artificial Intelligence, and Mathematical Modeling**.
+Computer Science student focused on **Scientific Machine Learning, Computational Modeling, and Mathematical Systems**.
 
-My work emphasizes understanding **the mathematical foundations of machine learning** and implementing algorithms from first principles.
+My work is centered on building algorithms from **first principles**, combining:
 
-Main interests:
+* **Machine Learning (neural networks, optimization, learning dynamics)**
+* **Mathematical modeling (calculus, linear algebra, probability)**
+* **Simulation-driven systems (physical and data-driven models)**
 
-• Machine Learning Theory
-• Mathematical Modeling
-• Optimization Algorithms
-• Data Science Systems
-• AI Engineering
+I am particularly interested in understanding how **intelligent systems can learn structured behavior from data**, especially in mathematically grounded environments.
 
-I enjoy transforming theoretical ideas into **efficient intelligent systems**.
+---
+
+# Core Interests
+
+• Machine Learning Theory and Optimization
+• Mathematical Modeling of Complex Systems
+• Scientific Computing and Simulation
+• Data-Driven System Design
+• AI Engineering with strong theoretical foundations
 
 ---
 
@@ -42,10 +48,11 @@ I enjoy transforming theoretical ideas into **efficient intelligent systems**.
 
 # Currently Learning
 
+• Numerical methods for dynamical systems
 • Advanced statistics for machine learning
-• Deep learning architectures (CNNs and Transformers)
-• Model optimization techniques
-• MLOps and reproducible pipelines
+• Deep learning architectures and training dynamics
+• Optimization methods in high-dimensional spaces
+• High-performance computing and efficient implementations
 
 ---
 
@@ -116,5 +123,5 @@ I enjoy transforming theoretical ideas into **efficient intelligent systems**.
 </p>
 
 <p align="center">
-<i>"Artificial Intelligence is built on mathematics, data, and curiosity."</i>
+<i>"Building intelligent systems grounded in mathematics, computation, and structure."</i>
 </p>
