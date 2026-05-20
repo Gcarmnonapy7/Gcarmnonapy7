@@ -1,4 +1,3 @@
-````md id="s2j5tf"
 <!-- ================================================= -->
 <!--                     HEADER                        -->
 <!-- ================================================= -->
@@ -25,9 +24,7 @@
 
 # ∇ About Me
 
-```math
 \textbf{Machine Learning} + \textbf{Mathematics} + \textbf{Scientific Computing}
-````
 
 Computer Science student focused on:
 
@@ -44,7 +41,6 @@ I enjoy building intelligent systems from first principles and understanding how
 
 # ⚡ Current Research Interests
 
-```text
 • Scientific Machine Learning
 • Numerical Optimization
 • Dynamical Systems
@@ -53,7 +49,6 @@ I enjoy building intelligent systems from first principles and understanding how
 • Linear Algebra Systems
 • Gradient-Based Learning
 • High-Performance C++
-```
 
 ---
 
@@ -119,12 +114,11 @@ I enjoy building intelligent systems from first principles and understanding how
 
 # ∂ Learning Focus
 
-```math
+
 \Large
 \frac{Learning + Mathematics + Computation}{Curiosity}
 =
 Innovation
-```
 
 Currently studying:
 
@@ -141,9 +135,8 @@ Currently studying:
 
 <p align="center">
 
-```math
+
 \textit{"Mathematics describes reality. Computation allows us to explore it."}
-```
 
 </p>
 
