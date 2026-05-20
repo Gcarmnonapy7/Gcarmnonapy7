@@ -1,99 +1,117 @@
+````md
 <!-- ================================================= -->
-
 <!--                     HEADER                        -->
-
 <!-- ================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Gabriel%20Carmona&fontSize=65&fontAlign=50&fontColor=00F7FF&animation=twinkling&desc=Scientific%20Machine%20Learning%20|%20Computational%20Systems&descAlign=50&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141E30,50:243B55,100:0F0C29&text=Gabriel%20Carmona&fontSize=68&fontAlign=50&fontColor=7DF9FF&animation=fadeIn&desc=Scientific%20Machine%20Learning%20•%20Computational%20Systems&descAlign=50&descSize=20"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Designing+Simulation+Engines;Learning+Physical+Systems+from+Data;Mathematics+%2B+Code+%2B+Intelligence;Building+Next-Gen+AI+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=2500&pause=700&color=7DF9FF&center=true&vCenter=true&width=900&lines=Building+Machine+Learning+Systems+from+Scratch;Scientific+Computing+%2B+Simulation;Mathematics+Driven+Engineering;High-Performance+AI+Systems;Learning+the+Foundations+of+Intelligence"/>
 </p>
 
 ---
 
 <!-- ================================================= -->
-
-<!--                    ANIMATED BANNER                -->
-
+<!--                  PROFILE BADGES                   -->
 <!-- ================================================= -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
+<img src="https://img.shields.io/badge/C%2B%2B-Scientific%20Computing-7DF9FF?style=for-the-badge&logo=cplusplus&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-Machine%20Learning-00C2FF?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-Development%20Environment-5EEAD4?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Open%20Source-Learning%20Journey-67E8F9?style=for-the-badge&logo=github&logoColor=black"/>
+</p>
+
+---
+
+<!-- ================================================= -->
+<!--                 ANIMATED VISUAL                   -->
+<!-- ================================================= -->
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N5M2Q4NjVwMHE4YmxhNXN2OWQ2bXh3aTRzMDFtOGN2aHphM2FoYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YtZOb9EUABnuqA/giphy.gif" width="700"/>
 </p>
 
 ---
 
 # About Me
 
-Computer Science student focused on **Scientific Machine Learning, Computational Modeling, and Mathematical Systems**.
+Computer Science student focused on:
 
-I build systems from first principles, combining:
+- Scientific Machine Learning
+- Computational Modeling
+- Numerical Computing
+- Mathematical Systems
+- Simulation-Driven AI
 
-* **Machine Learning (neural networks, optimization, learning dynamics)**
-* **Mathematical modeling (calculus, linear algebra, probability)**
-* **Simulation-driven systems (physics-inspired computation)**
-
-I am particularly interested in **learning structured behavior from data** and building **intelligent systems grounded in mathematics**.
+I enjoy building systems from first principles and understanding how intelligence, optimization, and learning emerge from mathematics and computation.
 
 ---
 
 # Core Interests
 
+```text
 • Scientific Machine Learning
-• Computational Physics & Simulation
-• Optimization and Energy-Based Models
-• Mathematical System Design
+• Computational Physics
+• Numerical Methods
+• Optimization Systems
 • High-Performance Computing
+• Simulation Engines
+• Deep Learning Foundations
+• Mathematical Modeling
+````
 
 ---
 
 # Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,julia,pytorch,numpy,pandas,git,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,julia,pytorch,numpy,pandas,git,linux,vscode,bash"/>
 </p>
 
 ---
 
-<!-- ================================================= -->
-
-<!--                    PROJECT VIBE GIF               -->
-
-<!-- ================================================= -->
+# Scientific Computing Focus
 
 <p align="center">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gcarmnonapy7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF&icon_color=00E5FF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcarmnonapy7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DF9FF"/>
 </p>
 
 ---
 
-# Currently Learning
+# Current Projects
 
-• Numerical methods for dynamical systems
-• Optimization in high-dimensional spaces
-• Deep learning architectures and training dynamics
-• Scientific computing and simulation techniques
-• Performance optimization in C++
+| Project                      | Description                                  |
+| ---------------------------- | -------------------------------------------- |
+| MorphosML                    | Machine Learning library from scratch in C++ |
+| Physics Simulations          | Numerical and physical system modeling       |
+| Scientific Computing Studies | Optimization, calculus, and linear algebra   |
+| AI Research Projects         | Experimental learning systems                |
 
 ---
 
-<!-- ================================================= -->
+# Current Learning Path
 
-<!--                ACTIVITY DASHBOARD                 -->
+* Numerical methods for dynamical systems
+* Scientific computing techniques
+* Gradient-based optimization
+* Deep learning architectures
+* High-performance C++
+* Simulation and modeling systems
 
-<!-- ================================================= -->
+---
 
-# Commit Ranking & Activity
+# Contribution Activity
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gcarmnonapy7&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Gcarmnonapy7&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Gcarmnonapy7&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -111,7 +129,7 @@ I am particularly interested in **learning structured behavior from data** and b
 
 ---
 
-# GitHub Snake Animation
+# 3D Contribution Calendar
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
@@ -119,10 +137,12 @@ I am particularly interested in **learning structured behavior from data** and b
 
 ---
 
-# Profile Visitors
+# Quote
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Gcarmnonapy7&label=Profile%20Views&color=00F7FF&style=flat"/>
+<i>
+"Mathematics describes reality. Computation allows us to explore it."
+</i>
 </p>
 
 ---
@@ -130,23 +150,40 @@ I am particularly interested in **learning structured behavior from data** and b
 # Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/gabriel-carmona-py765/">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-7DF9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
+
+<a href="https://github.com/Gcarmnonapy7">
+<img src="https://img.shields.io/badge/GitHub-Open%20Source%20Projects-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Gcarmnonapy7&label=Visitors&color=00E5FF&style=for-the-badge"/>
 </p>
 
 ---
 
 <!-- ================================================= -->
 
-<!--                 FINAL SIGNATURE                   -->
+<!--                    FINAL VISUAL                   -->
 
 <!-- ================================================= -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150"/>
 </p>
 
 <p align="center">
-<i>"Systems that learn. Models that simulate. Code that explains reality."</i>
+<b>
+Systems that learn • Simulations that explain • Mathematics that connects everything
+</b>
 </p>
+```
