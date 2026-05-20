@@ -1,3 +1,4 @@
+
 <!-- ================================================= -->
 <!--                     HEADER                        -->
 <!-- ================================================= -->
@@ -24,7 +25,7 @@
 
 # ∇ About Me
 
-\textbf{Machine Learning} + \textbf{Mathematics} + \textbf{Scientific Computing}
+**Machine Learning** + **Mathematics** + **Scientific Computing**
 
 Computer Science student focused on:
 
@@ -114,11 +115,10 @@ I enjoy building intelligent systems from first principles and understanding how
 
 # ∂ Learning Focus
 
-
-\Large
+$$\Large
 \frac{Learning + Mathematics + Computation}{Curiosity}
 =
-Innovation
+Innovation$$
 
 Currently studying:
 
@@ -135,8 +135,7 @@ Currently studying:
 
 <p align="center">
 
-
-\textit{"Mathematics describes reality. Computation allows us to explore it."}
+$$\textit{"Mathematics describes reality. Computation allows us to explore it."}$$
 
 </p>
 
@@ -168,8 +167,7 @@ Currently studying:
 
 <p align="center">
 
-\Huge
-\int_{curiosity}^{knowledge} learning(x)\,dx
+$$\Huge
+\int_{curiosity}^{knowledge} learning(x)\,dx$$
 
 </p>
-```
