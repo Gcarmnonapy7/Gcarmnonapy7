@@ -90,7 +90,6 @@ I enjoy building intelligent systems from first principles and understanding how
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gcarmnonapy7&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_radius=10"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gcarmnonapy7&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border_radius=10"/>
 </p>
 
