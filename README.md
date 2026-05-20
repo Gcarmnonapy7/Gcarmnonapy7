@@ -1,119 +1,184 @@
-<!-- HEADER -->
+````md id="s2j5tf"
+<!-- ================================================= -->
+<!--                     HEADER                        -->
+<!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1A1A2E,50:16213E,100:0F3460&text=Gabriel%20Carmona&fontSize=60&fontColor=7DF9FF&animation=fadeIn&fontAlignY=40&desc=Scientific%20Machine%20Learning%20•%20Computational%20Systems&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Gabriel%20Carmona&fontSize=65&fontAlign=50&fontColor=00F7FF&animation=twinkling&desc=Scientific%20Machine%20Learning%20|%20Computational%20Systems&descAlign=50&descSize=18"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Designing+Simulation+Engines;Learning+Physical+Systems+from+Data;Mathematics+%2B+Code+%2B+Intelligence;Building+Next-Gen+AI+Systems;Optimization+%7C+Numerical+Methods+%7C+Scientific+Computing"/>
 </p>
 
 ---
 
-# About Me
+<!-- ================================================= -->
+<!--                  ANIMATED BANNER                  -->
+<!-- ================================================= -->
+
+<p align="center">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="650"/>
+</p>
+
+---
+
+# ∇ About Me
+
+```math
+\textbf{Machine Learning} + \textbf{Mathematics} + \textbf{Scientific Computing}
+````
 
 Computer Science student focused on:
 
-- Scientific Machine Learning
-- Computational Modeling
-- Numerical Methods
-- High-Performance Computing
-- Mathematical Systems
+* Scientific Machine Learning
+* Numerical Methods
+* Computational Physics
+* Optimization Systems
+* High-Performance Computing
+* Mathematical Modeling
 
-I enjoy building systems from first principles and understanding how intelligence emerges from mathematics and computation.
-
----
-
-# Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,julia,pytorch,numpy,pandas,linux,git,vscode,bash"/>
-</p>
+I enjoy building intelligent systems from first principles and understanding how mathematics can describe learning, simulation, and computation.
 
 ---
 
-# Current Interests
+# ⚡ Current Research Interests
 
+```text
 • Scientific Machine Learning
-• Numerical Computing
-• Optimization Systems
-• Computational Physics
-• Deep Learning Foundations
-• Simulation Engines
+• Numerical Optimization
+• Dynamical Systems
+• Computational Simulation
+• Deep Learning Theory
+• Linear Algebra Systems
+• Gradient-Based Learning
+• High-Performance C++
+```
 
 ---
 
-# GitHub Stats
+# 📐 Mathematical Focus
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gcarmnonapy7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcarmnonapy7&layout=compact&theme=tokyonight&hide_border=true"/>
+| Field                | Topics                               |
+| -------------------- | ------------------------------------ |
+| Calculus             | Derivatives, Integrals, Optimization |
+| Linear Algebra       | Vectors, Matrices, Eigenvalues       |
+| Machine Learning     | Gradient Descent, Loss Functions     |
+| Scientific Computing | Numerical Stability, Simulations     |
+| Physics Systems      | Dynamical Modeling                   |
+
 </p>
 
 ---
 
-# GitHub Streak
+# 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gcarmnonapy7&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,julia,pytorch,numpy,pandas,linux,git,vscode,bash"/>
 </p>
 
 ---
 
-# Contribution Graph
+# 🧪 Current Projects
+
+| Project                | Description                                          |
+| ---------------------- | ---------------------------------------------------- |
+| MorphosML              | Machine Learning framework built from scratch in C++ |
+| Scientific Simulations | Numerical and physical modeling systems              |
+| HPC Experiments        | Performance-oriented computational systems           |
+| AI Research            | Optimization and learning dynamics                   |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gcarmnonapy7&theme=tokyo-night&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gcarmnonapy7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcarmnonapy7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 </p>
 
 ---
 
-# Current Projects
+# 🔥 Commit Activity
 
-| Project                | Description                                  |
-| ---------------------- | -------------------------------------------- |
-| MorphosML              | Machine Learning library from scratch in C++ |
-| Scientific Simulations | Physics and numerical modeling               |
-| AI Research            | Learning systems and optimization            |
-| HPC Experiments        | Performance-focused computation              |
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gcarmnonapy7&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+</p>
 
 ---
 
-# Currently Learning
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gcarmnonapy7&theme=tokyo-night&hide_border=true&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+</p>
+
+---
+
+# ∂ Learning Focus
+
+```math
+\Large
+\frac{Learning + Mathematics + Computation}{Curiosity}
+=
+Innovation
+```
+
+Currently studying:
 
 * Numerical methods
-* Deep learning optimization
 * Scientific computing
+* Optimization algorithms
+* Deep learning systems
+* Dynamical simulations
 * High-performance C++
-* Dynamical systems
 
 ---
 
-# Quote
+# 🌌 Philosophy
 
 <p align="center">
-  <i>
-    "Systems that learn. Models that simulate. Mathematics that explains."
-  </i>
+
+```math
+\textit{"Mathematics describes reality. Computation allows us to explore it."}
+```
+
 </p>
 
 ---
 
-# Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-carmona-py765/">
-    <img src="https://img.shields.io/badge/LinkedIn-7DF9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
 
-  <a href="https://github.com/Gcarmnonapy7">
-    <img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
+<a href="https://www.linkedin.com/in/gabriel-carmona-py765/">
+<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://github.com/Gcarmnonapy7">
+<img src="https://img.shields.io/badge/GitHub-Scientific%20Projects-00C2FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
 </p>
 
 ---
 
-# Visitors
+# 👁 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gcarmnonapy7&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Gcarmnonapy7&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+
+```math
+\Huge
+\int_{curiosity}^{knowledge} learning(x)\,dx
+```
+
 </p>
 ```
-****
