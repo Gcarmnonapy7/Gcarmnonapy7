@@ -168,10 +168,8 @@ Currently studying:
 
 <p align="center">
 
-```math
 \Huge
 \int_{curiosity}^{knowledge} learning(x)\,dx
-```
 
 </p>
 ```
