@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTfagwKGkORGdkQ/giphy.gif" width="720" alt="Data flow animation"/>
+  <img src="https://media.giphy.com/media/8JTFsZmnTR1Rs1JFVP/giphy.gif" width="520" alt="Hello there"/>
 </p>
 
 ---
@@ -96,10 +96,6 @@ I work across the data lifecycle — ingestion, transformation, storage, modelin
                 │ ML • Reporting│
                 └───────────────┘
 ```
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEhmQUnz8BTT1nf0c/giphy.gif" width="420" alt="Technology animation"/>
-</p>
 
 ---
 
