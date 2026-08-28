@@ -103,27 +103,68 @@ I work across the data lifecycle — ingestion, transformation, storage, modelin
 
 ---
 
-# 📊 GitHub
+# 🧪 Featured Projects
+
+## 🧬 MorphosML
+
+**A high-performance machine learning library built with a C++ core and Python bindings.**
+
+MorphosML is my machine learning framework project, focused on implementing core ML functionality from the ground up while keeping a Python-friendly interface. The current release includes linear algebra primitives, a K-Nearest Neighbors classifier, performance metrics, and a NumPy-compatible API.
+
+`C++` • `Python` • `pybind11` • `NumPy` • `Machine Learning`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gcarmnonapy7&theme=radical&hide_border=true&background=0D1117&ring=FF6F61&fire=FF6F61&currStreakLabel=FF6F61&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gcarmnonapy7&theme=radical"/>
+  <a href="https://pypi.org/project/morphosml/">
+    <img src="https://img.shields.io/badge/PyPI-MorphosML-FF6F61?style=for-the-badge&logo=pypi&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Gcarmnonapy7">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gcarmnonapy7&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF6F61&line=6A1B9A&point=FFFFFF&area=true&hide_border=true"/>
-</p>
+## ⚙️ Data Engineering Projects
+
+Projects focused on the systems behind reliable data: ingestion, transformation, storage, quality, and delivery.
+
+| Area                          | What I Build                                                      |
+| ----------------------------- | ----------------------------------------------------------------- |
+| 🌊 **Data Pipelines**         | End-to-end ETL/ELT workflows for ingesting and transforming data  |
+| 🏗️ **Microsoft Fabric**      | Lakehouses, notebooks, pipelines, and analytics solutions         |
+| 🔥 **Distributed Processing** | Scalable transformations with Apache Spark and PySpark            |
+| 🛡️ **Data Quality**          | Validation, monitoring, and reliability experiments               |
+| 📊 **Analytics Systems**      | Structured data models designed for reporting and decision-making |
 
 ---
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcarmnonapy7&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6F61&text_color=FFFFFF&langs_count=8&border_radius=10"/>
-</p>
+## 🧱 What I'm Building Toward
+
+```text
+        Raw Data
+           │
+           ▼
+      ┌──────────┐
+      │ Ingest   │
+      └────┬─────┘
+           │
+           ▼
+      ┌──────────┐
+      │Transform │
+      └────┬─────┘
+           │
+           ▼
+      ┌──────────┐
+      │Lakehouse │
+      └────┬─────┘
+           │
+           ▼
+      Reliable Data
+           │
+     ┌─────┴─────┐
+     ▼           ▼
+ Analytics       ML
+```
 
 ---
 
