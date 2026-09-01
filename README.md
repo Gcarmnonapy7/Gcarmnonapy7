@@ -5,11 +5,11 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2B1055,50:6A1B9A,100:FF6F61&text=Gabriel%20Carmona&fontSize=65&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&desc=Data%20Engineer%20%7C%20Building%20Reliable%20Data%20Systems&descAlign=50&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:333333,100:FFFFFF&text=Gabriel%20Carmona&fontSize=65&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&desc=Data%20Engineer%20%7C%20Building%20Reliable%20Data%20Systems&descAlign=50&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=FF6F61&center=true&vCenter=true&width=1000&lines=Building+Reliable+Data+Pipelines;Transforming+Raw+Data+into+Insights;Data+Engineering+%7C+Cloud+%7C+Analytics;ETL+%7C+ELT+%7C+Lakehouse+Architecture;Scalable+Data+Systems+and+Automation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=1000&lines=Building+Reliable+Data+Pipelines;Transforming+Raw+Data+into+Insights;Data+Engineering+%7C+Cloud+%7C+Analytics;ETL+%7C+ELT+%7C+Lakehouse+Architecture;Scalable+Data+Systems+and+Automation"/>
 </p>
 
 <p align="center">
@@ -45,10 +45,10 @@ I work across the data lifecycle — ingestion, transformation, storage, modelin
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-6A1B9A?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-FF6F61?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-6A1B9A?style=for-the-badge&logo=apache-spark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-FF6F61?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PySpark-000000?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-FFFFFF?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
@@ -111,10 +111,10 @@ MorphosML is my machine learning framework project, focused on implementing core
 
 <p align="center">
   <a href="https://pypi.org/project/morphosml/">
-    <img src="https://img.shields.io/badge/PyPI-MorphosML-FF6F61?style=for-the-badge&logo=pypi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyPI-MorphosML-000000?style=for-the-badge&logo=pypi&logoColor=white"/>
   </a>
   <a href="https://github.com/Gcarmnonapy7">
-    <img src="https://img.shields.io/badge/View%20on-GitHub-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View%20on-GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
@@ -187,11 +187,11 @@ Projects focused on the systems behind reliable data: ingestion, transformation,
 <p align="center">
 
   <a href="https://www.linkedin.com/in/gabriel-carmona-py765/">
-    <img src="https://img.shields.io/badge/LinkedIn-6A1B9A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Gcarmnonapy7">
-    <img src="https://img.shields.io/badge/GitHub-Data%20Engineering%20Projects-FF6F61?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Data%20Engineering%20Projects-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 
 </p>
@@ -199,5 +199,5 @@ Projects focused on the systems behind reliable data: ingestion, transformation,
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gcarmnonapy7&label=Profile%20Views&color=6A1B9A&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Gcarmnonapy7&label=Profile%20Views&color=000000&style=for-the-badge"/>
 </p>
