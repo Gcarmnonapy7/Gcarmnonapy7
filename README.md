@@ -1,140 +1,108 @@
-<!-- ================================================= -->
-<!--                     HEADER                        -->
-<!-- ================================================= -->
+# Gabriel Carmona
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0b0f19,50:111827,100:1f2937&text=Gabriel%20Carmona&fontSize=62&fontAlign=50&fontColor=60a5fa&animation=fadeIn&desc=Data%20Engineer%20%7C%20Scalable%20Systems%20%26%20Distributed%20Computing&descAlign=50&descSize=17"/>
-</p>
+Data Engineer focused on distributed systems, scalable data platforms, and cloud infrastructure. I enjoy building software that explores the intersection of computer science, mathematics, and engineering.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=1000&lines=Architecting+Resilient+Data+Pipelines;Orchestrating+Lakehouse+Infrastructure;Spark+%7C+Distributed+Computing+%7C+Azure+%7C+Fabric;Engineering+High-Throughput+Data+Systems"/>
-</p>
+My professional work revolves around designing reliable data architectures. Outside work, I'm interested in systems programming, parallel computing, machine learning, and computational physics.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif" width="480" alt="Spider-Man"/>
-</p>
+**Highlights:**
 
-# Professional Overview
-
-Data Engineer specialized in designing and maintaining fault-tolerant, high-throughput distributed data architectures.
-
-Focusing on the operational data lifecycle: scalable batch/stream ingestion, deterministic transformations, structured data lakehouse layers, and high-fidelity analytical consumption.
-
-`Data Engineering` • `Distributed Systems` • `Lakehouse Architecture` • `Apache Spark` • `Data Observability` • `Cloud Infrastructure`
+- Data Engineering experience building data pipelines and cloud-based data solutions.
+- Working with Microsoft Fabric, Azure, Apache Spark, Python, and SQL.
+- Creator of [MorphosML](https://pypi.org/project/morphosml/), a C++ machine learning library with native Python bindings.
+- Exploring distributed computing, high-performance systems, and scientific software development.
 
 ---
 
-# Strategic Focus
+## What I'm building
 
-- **Enterprise Cloud Platforms** — Production lakehouses via Microsoft Fabric and Azure Data Services
-- **Distributed Computing Engines** — Large-scale transformations leveraging Apache Spark and PySpark
-- **Lakehouse Topology** — Medallion architecture implementation (Bronze ingestion, Silver cleansing, Gold analytics)
-- **Data Reliability & Observability** — Automated schema evolution, proactive circuit breakers, and lineage validation
-- **Workflow Orchestration** — Idempotent pipeline design and automated dependency graphs
+My interests go beyond working with data platforms. I enjoy implementing software from the ground up to understand the algorithms, architecture, and computational principles behind it.
 
----
+### [MorphosML](https://github.com/Gcarmnonapy7)
 
-# System Architecture & Flow
+A machine learning library written in C++ with Python interoperability.
 
-```text
-                    [ Ingestion Vector ]
-              APIs • Streaming Events • RDBMS
-                           │
-                           ▼
-                 [ Processing Engine ]
-              Batch Processing • Micro-Batch
-                           │
-                           ▼
-               ┌───────────────────────┐
-               │   Storage Subsystem   │
-               ├───────────────────────┤
-               │ Bronze : Raw State    │
-               │ Silver : Cleansed     │
-               │ Gold   : Dimensional  │
-               └───────────────────────┘
-                           │
-                           ▼
-                  [ Serving Subsystem ]
-             OLAP • Machine Learning • APIs
-```
+The project explores the implementation of fundamental machine learning algorithms without depending entirely on high-level framework abstractions.
+
+- K-Nearest Neighbors.
+- Evaluation metrics and mathematical operations.
+- C++ computational core.
+- Python bindings through pybind11.
+- NumPy interoperability.
+
+**Stack:** C++, Python, pybind11, NumPy.
+
+[PyPI](https://pypi.org/project/morphosml/)
 
 ---
 
-# Technical Stack
+## Engineering interests
+
+**Data Engineering**
+
+Designing scalable ingestion pipelines, distributed transformations, and analytical data platforms. Particularly interested in lakehouse architecture, Delta Lake, and data reliability.
+
+**Distributed Systems**
+
+Understanding concurrency, parallel execution, synchronization, fault tolerance, and the internal architecture of distributed computing engines.
+
+**Systems Programming**
+
+Exploring C++, memory management, computational optimization, algorithms, and software architecture.
+
+**Scientific Computing**
+
+Numerical methods, mathematical modeling, machine learning, computational physics, and simulation software.
+
+---
+
+## Tech stack
+
+**Languages:** Python, C++, SQL, Julia, Rust, Bash.
+
+**Data Engineering:** Microsoft Fabric, Apache Spark, PySpark, Delta Lake, OneLake, Azure Data Factory, Databricks.
+
+**Machine Learning:** NumPy, Pandas, Polars, scikit-learn, PyTorch, TensorFlow, XGBoost.
+
+**Databases:** PostgreSQL, MySQL, DuckDB, Apache Iceberg.
+
+**Infrastructure:** Azure, Docker, Linux, Git, GitHub Actions.
+
+**Development:** CMake, pybind11, VS Code, Jupyter.
+
+---
+
+## Currently exploring
+
+- Distributed systems internals and fault tolerance.
+- Parallel computing and concurrency models.
+- High-performance computing and memory optimization.
+- Database storage engines and query execution.
+- Numerical methods and computational physics.
+- Machine learning algorithms and mathematical foundations.
+- MLOps and production machine learning infrastructure.
+
+I believe the best way to understand a technology is to build something with it, experiment with its internals, and contribute to the ecosystem around it.
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,azure,postgres,mysql,linux,git,vscode,bash,docker&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gcarmnonapy7&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=60A5FA&icon_color=60A5FA&text_color=94A3B8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gcarmnonapy7&layout=compact&hide_border=true&bg_color=0B0F19&title_color=60A5FA&text_color=94A3B8" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-0f172a?style=for-the-badge&logo=microsoft&logoColor=0078D4"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-0f172a?style=for-the-badge&logo=apachespark&logoColor=E25A1C"/>
-  <img src="https://img.shields.io/badge/PySpark-0f172a?style=for-the-badge&logo=apache-spark&logoColor=FDEE21"/>
-  <img src="https://img.shields.io/badge/Power_BI-0f172a?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-</p>
-
----
-
-# Active Initiatives
-
-| Domain | Technical Scope |
-| :--- | :--- |
-| **Pipeline Engineering** | Resilient batch/streaming extraction and load routines |
-| **Microsoft Fabric** | Native Delta Lake workspaces, automated dataflows, and notebook execution |
-| **Distributed Processing** | PySpark memory management, partition skew reduction, and shuffle tuning |
-| **Data Quality Frameworks** | Declarative validations, schema monitoring, and unit-tested pipelines |
-| **Analytical Modeling** | High-performance dimensional models (Star & Snowflake schemas) |
-
----
-
-# Featured Project: MorphosML
-
-**Low-latency machine learning compute engine built with C++ and exposed via native Python bindings.**
-
-MorphosML demonstrates core algorithm architecture and vector mathematics implemented without heavy external framework abstractions. Key components include optimized linear algebra kernels, K-Nearest Neighbors implementation, vectorized evaluation metrics, and full zero-copy NumPy memory layout interoperability.
-
-`C++` • `Python` • `pybind11` • `NumPy C-API` • `Algorithmic Optimization`
-
-<p align="center">
-  <a href="https://pypi.org/project/morphosml/">
-    <img src="https://img.shields.io/badge/PyPI-MorphosML-1e293b?style=for-the-badge&logo=pypi&logoColor=3776AB"/>
-  </a>
-  <a href="https://github.com/Gcarmnonapy7">
-    <img src="https://img.shields.io/badge/GitHub-Repository-1e293b?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Gcarmnonapy7&theme=dark&hide_border=true&background=0B0F19&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA"/>
 </p>
 
 ---
 
-# Technical Disciplines Under Study
+## Connect
 
-`Distributed Storage Protocols` • `Query Optimizer Execution Plans` • `Delta Lake ACID Internals` • `Advanced Dimensional Modeling` • `Site Reliability for Data Workflows`
+- **GitHub:** [Gcarmnonapy7](https://github.com/Gcarmnonapy7)
+- **LinkedIn:** [Gabriel Carmona](https://www.linkedin.com/in/gabriel-carmona-py765/)
+- **Email:** gabrielcarmonabittencourtpy@gmail.com
+- **Location:** São Paulo, Brazil (UTC-3)
 
----
-
-# Professional Philosophy
-
-<div align="center">
-
-> *"Your heart is free. Have the courage to follow it."*
->
-> — **Braveheart**
-
-</div>
-
----
-
-# Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-carmona-py765/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="https://github.com/Gcarmnonapy7">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0f172a?style=for-the-badge&logo=github&logoColor=60a5fa"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gcarmnonapy7&label=Profile%20Views&color=2563eb&style=for-the-badge"/>
-</p>
+Always interested in interesting engineering problems, open-source collaboration, and conversations about computing, data, and science.
